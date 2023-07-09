@@ -28,7 +28,10 @@ The main goal of this GitHub repository is to provide a solid foundation for bui
 #### 3. Install the dependencies : Use the pip package manager for installing this project
 	pip install fastapi
  	pip install uvicorn
-#### 4. Set up the mongo db atlas
+#### 4. Set up the MongoDB Atlas with pymongo
+	python -m pip install pymongo==3.11
+ 	pip install 'pymongo[srv]'
+### 5. You are ready to go.
 
 ## Execution
 #### 1. To start the API server, run the following command:
