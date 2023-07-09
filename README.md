@@ -31,7 +31,7 @@ The main goal of this GitHub repository is to provide a solid foundation for bui
 #### 4. Set up the MongoDB Atlas with pymongo
 	python -m pip install pymongo==3.11
  	pip install 'pymongo[srv]'
-### 5. You are ready to go.
+#### 5. You are ready to go.
 
 ## Execution
 #### 1. To start the API server, run the following command:
