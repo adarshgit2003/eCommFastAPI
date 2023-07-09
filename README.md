@@ -100,7 +100,7 @@ The main goal of this GitHub repository is to provide a solid foundation for bui
 ### 7. Get all orders
 * Endpoint: "/orders/"
 * Method: GET
-* #### Description: This endpoint retrieves a list of all orders available in the system.
+* #### Description: This endpoint retrieves a paginated list of all orders available in the system.
   		The information includes:
 		* Order_id of the order.
 		* List of product details which are ordered with quantity of each product.
