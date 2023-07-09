@@ -90,10 +90,10 @@ The main goal of this GitHub repository is to provide a solid foundation for bui
 * Require: Attributes of the product
 * #### For example:
 		{
-		  "name": "string",
-		  "price": 0,
-		  "description": "string",
-		  "quantity": 0
+		  "name": "Fan",
+		  "price": 500,
+		  "description": "Get a new fan in this summer",
+		  "quantity": 40
 		}
 * Response: Returns a success message for the addition of new product.
 
